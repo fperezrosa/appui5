@@ -1,0 +1,8 @@
+{ 
+     "xsappname"     : "project1", 
+     "tenant-mode"   : "shared", 
+     "scopes"        : [ ],
+     "role-templates":[],
+     "attributes":[],
+     "oauth2-configuration": {}
+}
