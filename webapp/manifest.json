@@ -14,6 +14,19 @@
       "id": "@sap/generator-fiori:basic",
       "version": "1.12.2",
       "toolsId": "892bde17-39e9-47a1-88c2-3d1e8ef700f9"
+    },
+    "crossNavigation": {
+      "inbounds": {
+        "testingApp-Display": {
+          "semanticObject": "testingApp",
+          "action": "Display",
+          "title": "Testing App",
+          "signature": {
+            "parameters": {},
+            "additionalParameters": "allowed"
+          }
+        }
+      }
     }
   },
   "sap.ui": {
