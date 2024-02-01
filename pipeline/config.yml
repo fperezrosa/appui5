@@ -16,7 +16,7 @@ stages:
     cfCredentialsId: "btp"
     deployType: "standard"
     cloudFoundryDeploy: true
-  Build:
+  Build: 
     npmExecuteLint: true
   Additional Unit Tests:
     npmExecuteScripts: false
